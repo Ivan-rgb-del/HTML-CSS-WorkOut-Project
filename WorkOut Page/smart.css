@@ -1,0 +1,23 @@
+.smart{
+    background: radial-gradient(#fff, #ffd6d6);
+}
+
+.smart-box{
+    flex-basis: 50%;
+}
+
+.smart-box img{
+    width: 100%;
+    padding: 50px;
+}
+
+.smart-box h1{
+    color: #333;
+    font-size: 60px;
+    margin: 10px 0;
+}
+
+.smart-box p{
+    color: #888;
+    padding-bottom: 40px;
+}

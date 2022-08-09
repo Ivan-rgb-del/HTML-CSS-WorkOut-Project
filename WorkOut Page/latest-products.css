@@ -1,0 +1,36 @@
+.latest-products{
+    width: 1300px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.latest-box{
+    flex-basis: 25%;
+    padding: 40px 10px;
+    transition: 0.2s ease-in-out;
+}
+
+.latest-box img{
+    width: 100%;
+}
+
+.latest-box h4{
+    font-weight: 100;
+    color: #777;
+}
+
+.latest-box i{
+    color: var(--primary);
+}
+
+.latest-box p{
+    font-size: 16px;
+    color: #666;
+}
+
+.latest-box:hover{
+    transform: translateY(-10px);
+}

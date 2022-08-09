@@ -1,0 +1,50 @@
+.download{
+    background: black;
+    color: white;
+}
+
+.footer-box-1{
+    flex-basis: 30%;
+}
+
+.footer-box-1 p{
+    margin: 30px 0;
+    font-size: 14px;
+    color: #888;
+}
+
+.footer-box-2{
+    flex: 1;
+    text-align: center;
+}
+.footer-box-2 p{
+    margin: 30px 0;
+    color: #888;
+    width: 500px;
+    margin: auto;
+}
+
+.footer-box-4{
+    flex-basis: 12%;
+    text-align: center;
+}
+
+.footer-box-4 h3{
+    padding: 10px;
+}
+
+.footer-box-4 ul{
+    list-style: none;
+}
+
+.footer-box-4 ul li{
+    color: #888;
+}
+
+.footer-box-2 img, .footer-box-1 img{
+    width: 180px;
+}
+
+.footer-box-2 img{
+    padding-bottom: 20px;
+}
